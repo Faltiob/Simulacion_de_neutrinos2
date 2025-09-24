@@ -1,0 +1,1 @@
+Tiempo promedio entre eventos: 0 segundos
